@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matheus Barboza</h1>
-<h3 align="center">Sou um desenvolvedor Front-end, adoro café :), Atualmente utilizo as tecnologias React, React Native e sou um curioso do back-end com o NodeJs. Sou graduado no curso de Análise e Desenvolvimento de sistemas pelo IFBA.</h3>
+<h3 align="center">Front-end developer, I love coffee :), Currently uses React, React Native technologies and I'm curious about the back-end with NodeJs. I am graduated in the Systems Analysis and Development course at IFBA.
+</h3>
 
 - 🌱 I’m currently learning **React, React Native, NodeJs.**
 
