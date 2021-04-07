@@ -1,12 +1,15 @@
-### Olá, eu me chamo Matheus! :D
+### Olá, eu me chamo Matheus Barboza ! :D
 
 
 ### Sobre mim
 Eu sou um desenvolvedor front-end, atuo tanto com web quanto mobile. Tenho experiência e cada vez mais eu estudo sobre as tecnologias React, React Native e NodeJs.
 Criei alguns projetos que estão todos aqui no meu GitHub, e logo mais sairá meu portfólio.
 
+
 #### Aqui estão alguns sites que criei como estudo para testar minhas experiências
 - https://barbozafilmaria.netlify.app/
+
+
 
 ### Me chame em minhas redes sociais :)
 
